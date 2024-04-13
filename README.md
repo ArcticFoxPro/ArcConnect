@@ -40,7 +40,7 @@
 
 | 编号 | 平台 | 描述 | 状态 | 备注 |
 | :-: | :-: | :-: | :-: | :-: |
-| ArcB1 | Android·Xiaomi HyperOS | 将 QQ 缩小为小米自由窗口情况下，小米小窗底部导航提示条与 QQ 底部导航栏重叠 | 未明确 | 修复方案可参考：[Fix navigation bar insets for HyperOS Freeform (#1176) · LibChecker/LibChecker@25354dc](https://github.com/LibChecker/LibChecker/commit/25354dc31e25302d81ccaf5752d4ae72ae8cbbb0) |
+| ArcB1 | Android · Xiaomi HyperOS | 将 QQ 缩小为小米自由窗口情况下，小米小窗底部导航提示条与 QQ 底部导航栏重叠 | 未明确 | 修复方案可参考：[Fix navigation bar insets for HyperOS Freeform (#1176) · LibChecker/LibChecker@25354dc](https://github.com/LibChecker/LibChecker/commit/25354dc31e25302d81ccaf5752d4ae72ae8cbbb0) |
 
 </div>
 
