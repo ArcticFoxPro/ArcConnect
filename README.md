@@ -28,8 +28,8 @@
 | :-: | :-: |  :-: | :-: | :-: |
 | ArcF1 | Android | 手势导航提示条（小白条）真沉浸 | 已上线 | Android QQ 9.0.25，仅部分场景生效 |
 | ArcF2 | Android | ShortCuts（桌面图标长按菜单） | 已上线 | Android QQ 9.0.25 |
-| ArcF3 | Android | 系统通知快捷回复（RemoteInput API）| Xiaomi HyperOS 适配受阻，小米三方应用外部支持和相关技术部门正在分析此问题 |在多个中国大陆 Android OEM 定制系统测试时，发现在基于 Android 14 的 Xiaomi HyperOS 设备和部分基于 Android 13 的 Xiaomi HyperOS 设备上调用 RemoteInput API 时，存在系统直接向 RemoteInput 返回“null”的问题，与 Android 预期逻辑和结果不符。|
-| ArcF4 | Android | 边到边（edge-to-edge）软键盘动画（WindowInsetsAnimation API）| 跟进中 | Android QQ 9.0.35 版本 QQ 频道帖子详情页回复输入框已适配 |
+| ArcF3 | Android | 系统通知快捷回复（RemoteInput API）| Xiaomi HyperOS 适配受阻，小米三方应用外部支持和相关技术部门正在分析此问题 |在多个中国大陆 Android OEM 定制系统测试时，发现在基于 Android 14 的 Xiaomi HyperOS 设备和部分基于 Android 13 的 Xiaomi HyperOS 设备上调用 RemoteInput API 时，存在系统直接向 RemoteInput 返回 `null` 的问题，与 Android 预期逻辑和结果不符。|
+| ArcF4 | Android | 边到边（edge-to-edge）软键盘动画（WindowInsetsAnimation API）| 跟进中 | Android QQ 9.0.35 腾讯频道帖子详情页回复输入框已适配 |
 | ArcF5 | Android | 文件预览界面提供保存到 Android 系统公有目录按钮 | 跟进中| |
 
 </div>
@@ -40,7 +40,7 @@
 
 | 编号 | 平台 | 描述 | 状态 | 备注 |
 | :-: | :-: | :-: | :-: | :-: |
-| ArcB1 | Android · Xiaomi HyperOS | 将 QQ 缩小为小米自由窗口情况下，小米小窗底部导航提示条与 QQ 底部导航栏重叠 | 未明确 | 修复方案可参考：[Fix navigation bar insets for HyperOS Freeform (#1176) · LibChecker/LibChecker@25354dc](https://github.com/LibChecker/LibChecker/commit/25354dc31e25302d81ccaf5752d4ae72ae8cbbb0) |
+| ArcB1 | Android · Xiaomi HyperOS | 将 QQ 缩小为小米自由小窗情况下，小米小窗底部导航提示条与 QQ 底部导航栏重叠 | 未明确 | 修复方案可参考：[Fix navigation bar insets for HyperOS Freeform (#1176) · LibChecker/LibChecker@25354dc](https://github.com/LibChecker/LibChecker/commit/25354dc31e25302d81ccaf5752d4ae72ae8cbbb0) |
 
 </div>
 
