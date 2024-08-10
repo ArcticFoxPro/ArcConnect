@@ -31,7 +31,7 @@
 | ArcF1 | Android | 手势导航提示条（小白条）真沉浸 | 已上线 | Android QQ 9.0.25，仅部分场景生效 |
 | ArcF2 | Android | ShortCuts（桌面图标长按菜单） | 已上线 | Android QQ 9.0.25 |
 | ArcF3 | Android | 系统通知快捷回复（RemoteInput API）| Xiaomi HyperOS 适配受阻，小米三方应用外部支持和相关技术部门正在分析此问题 |在多个中国大陆 Android OEM 定制系统测试时，发现在基于 Android 14 的 Xiaomi HyperOS 设备和部分基于 Android 13 的 Xiaomi HyperOS 设备上调用 RemoteInput API 时，存在系统直接向 RemoteInput 返回 `null` 的问题，与 Android 预期逻辑和结果不符。|
-| ArcF4 | Android | 边到边（edge-to-edge）软键盘动画（WindowInsetsAnimation API）| 跟进中 | Android QQ 9.0.35 腾讯频道帖子详情页回复输入框已适配 |
+| ArcF4 | Android | 边到边（edge-to-edge）软键盘动画（WindowInsetsAnimation API）| 跟进中 | Android QQ 9.0.35 腾讯频道帖子详情页回复输入框已适配；Android QQ 9.0.85 QQ 空间触发回复浮窗已适配，正在云控 |
 | ArcF5 | Android | 文件预览界面提供保存到 Android 系统公有目录按钮 | 已上线 | Android QQ 9.0.80 |
 | ArcF6 | Android & iOS | 监听系统读屏服务并针对性关闭一些干扰 | 跟进中 | |
 
